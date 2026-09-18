@@ -4,7 +4,7 @@ Minimal demo of a single page webapp that shows the results of a database query.
 
 Vibe coded with Claude Sonnet 5.
 
-Remark that this app was built on a Fedora 40 system with .Net 10.0 SDK and Podman installed. It should work on any system that supports .Net 10.0 and has a container runtime installed. The `podman` command can be replaced with `docker` on a system that has Docker installed.
+Remark that this app was built on a Fedora 44 system with .Net 10.0 SDK and Podman installed. It should work on any system that supports .Net 10.0 and has a container runtime installed. The `podman` command can be replaced with `docker` on a system that has Docker installed.
 
 ## Running the app
 
